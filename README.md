@@ -81,7 +81,7 @@ This project applies network science techniques to New York City’s taxi and fo
 
 **Hariprakash Karthikeyan**  
 Master's in Data Science, University of Rochester  
-📫 [LinkedIn](https://www.linkedin.com/in/hariprakash-karthikeyan/) | 📧 hariprakashkarthikeyan@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/hariprakash-karthikeyan/) | 📧 hariprakashkarthikeyanslm@gmail.com
 
 ---
 
